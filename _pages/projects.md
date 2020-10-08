@@ -16,13 +16,13 @@ author_profile: true
   - An algorithm for inferring a task-based costmap from adataset of motion capture trajectories of two humans.
 
 ## 2019
-- **Master Thesis: Optimal Navigation System for a Mobile Robot to Execute Dynamical Multiple Social Tasks**[[pdf](http://r06921017.github.io/files/thesis_v13.pdf)]
+- **Master Thesis: Optimal Navigation System for a Mobile Robot to Execute Dynamical Multiple Social Tasks** [[pdf](http://r06921017.github.io/files/thesis_v13.pdf)]
   - *Advisor: Dr. Li-Chen Fu, NTUEE*
   - A navigation system integrated with perception module and decision making system can handle dynamical social tasks during human robot interaction.
   - A model that formulates the household environment into discrete graph and task into time-decaying reward function can transfer complex social task planning problem to mathematical optimization problem. 
   - A task planning algorithm using relative low memory consumption in time such that the robot can deal with scenarios when newly-added social tasks are called from human. 
 
-- **Multi-Agent Path Finding with Simple Temporal Network with Uncertainty (STNU)**[[slides](http://r06921017.github.io/files/MAPF_STNU.pdf)]
+- **Multi-Agent Path Finding with Simple Temporal Network with Uncertainty (STNU)** [[slides](http://r06921017.github.io/files/MAPF_STNU.pdf)]
   - *Course: Coordinate Robotics, Lecturer: Prof. Nora Ayanian, USC*
   - Apply STNU to MAPF to deal with uncertainty to deal with uncertainty movements during plan execution.
 
