@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-{% include base_path %}
+
 ## 2020
 * Shao-Hung Chan, Jiaoyang Li, Daniel Harabor, Peter J. Stuckey, Graeme Gange, Liron Cohen and Sven Koenig. Nested ECBS for Bounded Suboptimal Multi-Agent Path Finding. In *Workshop on Multi-agent Path Finding at International Joint Conference on Artificial Intelligence (IJCAI)*, 2020.
 
