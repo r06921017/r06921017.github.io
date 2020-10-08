@@ -10,7 +10,7 @@ author_profile: true
 ---
 
 ## 2020
-- **Inverse Reinforcement Learning for InferringHuman-Centered Costmaps** [[report](http://r06921017.github.io/files/Costmaps_Final_Paper.pdf)]
+- **Inverse Reinforcement Learning for Inferring Human-Centered Costmaps** [[report](http://r06921017.github.io/files/Costmaps_Final_Paper.pdf)]
   - *Course: Computational Human Robot Interaction, Lecturer: Prof. Stefanos Nikolaidis, USC*
   - A scalable method to collect information on task-basedpersonal space.
   - An algorithm for inferring a task-based costmap from adataset of motion capture trajectories of two humans.
