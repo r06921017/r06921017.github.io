@@ -1,11 +1,11 @@
 ---
-permalink: /projects/
 title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects.
   - /projects.html
+author_profile: true
 ---
 
 ## 2020
