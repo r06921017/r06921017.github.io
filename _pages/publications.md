@@ -16,7 +16,7 @@ author_profile: true
 - Ping-Tsang Wu, Chee-An Yu, **Shao-Hung Chan**, Ming-Li Chiang, Li-Chen Fu. [Multi-Layer Environmental Affordance Map for Robust Indoor Localization, Event Detection and Social Friendly Navigation](https://ieeexplore.ieee.org/abstract/document/8594352). In *Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2945-2950, 2019.
 
 ## 2018
-- **Shao-Hung Chan**, Ping-Tsang Wu, Li-Chen Fu. [Robust 2D Indoor Localization through Laser SLAM and Visual SLAM Fusion](https://ieeexplore.ieee.org/abstract/document/8616217). In *Proceedings of IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 1263-1268, 2018.
+- **Shao-Hung Chan**, Ping-Tsang Wu, Li-Chen Fu. [Robust 2D Indoor Localization through Laser SLAM and Visual SLAM Fusion](https://ieeexplore.ieee.org/abstract/document/8616217). In *Proceedings of IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 1263-1268, 2018. (Best Student Paper Candidate)
 - Shih-Hsi Hsu, **Shao-Hung Chan**, Ping-Tsang Wu, Kun Xiao, Li-Chen Fu. [Distributed Deep Reinforcement Learning based Indoor Visual Navigation](https://ieeexplore.ieee.org/abstract/document/8594352). In *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2532-2537, 2018.
 
 ## 2016
