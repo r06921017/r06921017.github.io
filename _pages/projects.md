@@ -10,19 +10,19 @@ author_profile: true
 ---
 
 ## 2020
-- **Inverse Reinforcement Learning for InferringHuman-Centered Costmaps**
+- **Inverse Reinforcement Learning for InferringHuman-Centered Costmaps** [[report](http://r06921017.github.io/files/Costmaps_Final_Paper.pdf)]
   - *Course: Computational Human Robot Interaction, Lecturer: Prof. Stefanos Nikolaidis, USC*
   - A scalable method to collect information on task-basedpersonal space.
   - An algorithm for inferring a task-based costmap from adataset of motion capture trajectories of two humans.
 
 ## 2019
-- **Master Thesis: Optimal Navigation System for a Mobile Robot to Execute Dynamical Multiple Social Tasks**
+- **Master Thesis: Optimal Navigation System for a Mobile Robot to Execute Dynamical Multiple Social Tasks**[[pdf](http://r06921017.github.io/files/thesis_v13.pdf)]
   - *Advisor: Dr. Li-Chen Fu, NTUEE*
   - A navigation system integrated with perception module and decision making system can handle dynamical social tasks during human robot interaction.
   - A model that formulates the household environment into discrete graph and task into time-decaying reward function can transfer complex social task planning problem to mathematical optimization problem. 
   - A task planning algorithm using relative low memory consumption in time such that the robot can deal with scenarios when newly-added social tasks are called from human. 
 
-- **Multi-Agent Path Finding with Simple Temporal Network with Uncertainty (STNU)**
+- **Multi-Agent Path Finding with Simple Temporal Network with Uncertainty (STNU)**[[slides](http://r06921017.github.io/files/MAPF_STNU.pdf)]
   - *Course: Coordinate Robotics, Lecturer: Prof. Nora Ayanian, USC*
   - Apply STNU to MAPF to deal with uncertainty to deal with uncertainty movements during plan execution.
 
@@ -31,7 +31,7 @@ author_profile: true
   - *Course: GPU Programming, Lecturer: Prof. Wei-Chao Chen, NTUEE*
   - Developed a system for robot to execute commands given by human gesture and voice.
 
-- **Face Recognition with Squeezed Deep Learning Model** [[poster](https://drive.google.com/file/d/1jlZSmr7yZB87IewN-447M4WQPaK8Qv4I/view)]
+- **Face Recognition with Squeezed Deep Learning Model** [[poster](http://r06921017.github.io/files/DLCV_final_poster.pdf)]
   - *Course: Deep Learn for Computer Vision, Lecturer: Prof. Yu-Chiang Frank Wang, NTUEE*
   - Developed a face recognition network with squeezed model combing InceptionNet, Inception-ResNet, and ShuffleNet.
   - Trained and tetsted on CelebA Dataset, comparing with VGG-16 with the testing accuracy about 0.6, the testing accuracy of our model is 0.65 with ten times fewer parameters.
