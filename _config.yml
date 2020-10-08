@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shao-Hung Chan"
 title_separator          : "-"
-name                     : &name "SHao-Hung Chan"
+name                     : &name "Shao-Hung Chan"
 description              : &description "CS Ph.D. student at University of Southern California"
 url                      : https://r06921017.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
