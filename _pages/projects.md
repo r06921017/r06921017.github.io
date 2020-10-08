@@ -37,14 +37,14 @@ redirect_from:
 
 ## 2017
 ### Making Latte Art through ITRI Robotic Arm
-* Course: Robotics, Lecturer: Prof. Li-Chen Fu, NTUEE
+*Course: Robotics, Lecturer: Prof. Li-Chen Fu, NTUEE*
 * Manipulated robot arm to generate latte art given a certain pattern while recognizing objects like cups, stir bar with top view camera.
 
 ### Machine Translation for Native Taiwanese Language on Local Drama Conversation
-* Course: Machine Learning, Lecturer Prof. Hung-Yi Lee, NTUEE
+*Course: Machine Learning, Lecturer Prof. Hung-Yi Lee, NTUEE*
 * Developed a word-embedded model trained on Conversation Native Language Dataset with 0.51 accuracy, while the best model on Kaggle is 0.55.
 
 ## 2016
 ### Solving Marble Maze with Universal Robot UR5 [[link](https://awehandsomemore.wixsite.com/ur5projectmarblemaze)]
-* Course: Introduction to Robotics, Lecturer: Prof. Ruzena Bajcsy, Department of EECS, UC Berkeley
+*Course: Introduction to Robotics, Lecturer: Prof. Ruzena Bajcsy, Department of EECS, UC Berkeley*
 * Encoded the corner of the maze and solve the adequate path for the marble.
