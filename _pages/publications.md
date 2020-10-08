@@ -14,7 +14,7 @@ author_profile: true
 
 ## 2018
 * Shao-Hung Chan, Ping-Tsang Wu, Li-Chen Fu. [Robust 2D Indoor Localization through Laser SLAM and Visual SLAM Fusion](https://ieeexplore.ieee.org/abstract/document/8616217). In *Proceedings of IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 1263-1268, 2018.
-* Shih–Hsi Hsu, Shao–Hung Chan, Ping–Tsang Wu, Kun Xiao, Li–Chen Fu. [Distributed Deep Reinforcement Learning based Indoor Visual Navigation](https://ieeexplore.ieee.org/abstract/document/8594352). In *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2532-2537, 2018.
+* Shih-Hsi Hsu, Shao-Hung Chan, Ping-Tsang Wu, Kun Xiao, Li-Chen Fu. [Distributed Deep Reinforcement Learning based Indoor Visual Navigation](https://ieeexplore.ieee.org/abstract/document/8594352). In *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2532-2537, 2018.
 
 ## 2016
 * Shao-Hung Chan, Shuenn-Yuh Lee, Qiang Fang, Huimin Ma. [Integration of Bioelectronics and Bioinformatics: Future Direction of Bioengineering Research](https://link.springer.com/content/pdf/10.1007/s40846-016-0185-1.pdf). In *Journal of Medical and Biological Engineering (JMBE)*, 751-754, 2016.
