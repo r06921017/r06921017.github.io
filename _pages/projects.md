@@ -16,10 +16,12 @@ redirect_from:
 
 ## 2019
 * Master Thesis: Optimal Navigation System for a Mobile Robot to Execute Dynamical Multiple Social Tasks
+  
   *Advisor: Dr. Li-Chen Fu, NTUEE*
   * A navigation system integrated with perception module and decision making system can handle dynamical social tasks during human robot interaction.
   * A model that formulates the household environment into discrete graph and task into time-decaying reward function can transfer complex social task planning problem to mathematical optimization problem. 
   * A task planning algorithm using relative low memory consumption in time such that the robot can deal with scenarios when newly-added social tasks are called from human. 
+
 
 *  Multi-Agent Path Finding with Simple Temporal Network with Uncertainty (STNU)
   *Course: Coordinate Robotics, Lecturer: Prof. Nora Ayanian, USC*
@@ -27,11 +29,13 @@ redirect_from:
 
 ## 2018
 * Real-time Human, Object, Pose Detection for Service Robots [link](https://a9451406.wixsite.com/gpgpurobotproject)
-  * Course: GPU Programming, Lecturer: Prof. Wei-Chao Chen, NTUEE
+  
+  *Course: GPU Programming, Lecturer: Prof. Wei-Chao Chen, NTUEE*
   * Developed a system for robot to execute commands given by human gesture and voice.
 
 * Face Recognition with Squeezed Deep Learning Model [poster](https://drive.google.com/file/d/1jlZSmr7yZB87IewN-447M4WQPaK8Qv4I/view)
-  * Course: Deep Learn for Computer Vision, Lecturer: Prof. Yu-Chiang Frank Wang, NTUEE
+  
+  *Course: Deep Learn for Computer Vision, Lecturer: Prof. Yu-Chiang Frank Wang, NTUEE*
   * Developed a face recognition network with squeezed model combing InceptionNet, Inception-ResNet, and ShuffleNet.
   * Trained and tetsted on CelebA Dataset, comparing with VGG-16 with the testing accuracy about 0.6, the testing accuracy of our model is 0.65 with ten times fewer parameters.
 
